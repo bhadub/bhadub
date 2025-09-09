@@ -44,8 +44,6 @@ I combine deep expertise in business operations with AI and automation to reimag
 
 # 🌐 Find me online
 
-- Website: [theuptree.com](https://theuptree.com)
-
 - [LinkedIn](linkedin.com/in/bhaskerdubey)
 
 ⚡ This GitHub is my space to share workflows, experiments, and frameworks that make AI-first operations real.
